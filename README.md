@@ -21,3 +21,7 @@ Este é um projeto de aprendizado criado para praticar o fluxo de contribuição
 ## Autor
 
 capfelipe3-byte
+
+## Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
